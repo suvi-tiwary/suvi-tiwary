@@ -2,15 +2,15 @@
 
 **MERN Stack Developer • Building Real-World Products • Skill → Scale → Income**
 
-🚀 **B.Tech (2nd Year) | Tier-3 College — Tier-1 Hustle**
+🚀 **B.Tech (2nd Year) 
 
 ---
 
 ## 🧠 About Me
 
-💻 I build **full-stack web applications**, not tutorial clones  
+💻 I build **full-stack web applications**
 ⚡ Obsessed with **execution, speed, and real impact**  
-🛠 Currently leveling up in **Next.js + scalable backends**  
+🛠 Currently leveling up in **making website integrated with AI** to solve real world problems 
 🎯 Building toward **independent, high-income engineering**, not a 9–5 track  
 
 📈 **Philosophy:**  
@@ -23,16 +23,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
-
----
-
-## 📌 What I’m Working On
-
-🧩 Production-style **MERN + Next.js apps**  
-🧠 APIs, authentication, databases, and real backend logic  
-🚀 Portfolio built to **win clients and internships**
-
----
 
 ## 📫 Contact
 
