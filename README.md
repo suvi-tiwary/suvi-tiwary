@@ -49,4 +49,18 @@
 >
 > ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suvi-tiwary&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suvi-tiwary&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suvi-tiwary&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvi-tiwary&layout=compact&theme=tokyonight"/>
+
+</p>
