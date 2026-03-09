@@ -46,3 +46,7 @@
 
 > I don’t “learn forever.”  
 > **I build, ship, and win. 🔥**
+>
+> ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suvi-tiwary&show_icons=true&theme=tokyonight)
