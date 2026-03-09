@@ -20,15 +20,9 @@
 
 ## 🔧 Tech Stack
 
-*(Add your technologies here if you want, for example)*
-
-- React  
-- Next.js  
-- Node.js  
-- Express.js  
-- MongoDB  
-- Tailwind CSS  
-- JavaScript  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
 
 ---
 
