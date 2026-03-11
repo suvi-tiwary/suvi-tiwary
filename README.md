@@ -5,7 +5,6 @@
 🚀 **B.Tech (2nd Year) 
 
 ---
-
 ## 🧠 About Me
 
 💻 I build **full-stack web applications**
