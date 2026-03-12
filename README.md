@@ -7,8 +7,8 @@
 ---
 ## 🧠 About Me
 
-💻 I build **full-stack web applications**
-⚡ Obsessed with **execution, speed, and real impact**  
+💻 I build **full-stack web applications** <br>
+⚡ Obsessed with **execution, speed, and real impact**  <br>
 🛠 Currently leveling up in **making website integrated with AI** to solve real world problems <br>
 🎯 Building toward **independent, high-income engineering**, not a 9–5 track  
 
