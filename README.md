@@ -9,7 +9,7 @@
 
 💻 I build **full-stack web applications**
 ⚡ Obsessed with **execution, speed, and real impact**  
-🛠 Currently leveling up in **making website integrated with AI** to solve real world problems 
+🛠 Currently leveling up in **making website integrated with AI** to solve real world problems <br>
 🎯 Building toward **independent, high-income engineering**, not a 9–5 track  
 
 📈 **Philosophy:**  
