@@ -1,6 +1,6 @@
 # Hi 👋, I'm Suvi Tiwary
 
-**MERN Stack Developer • Building Real-World Products • Skill → Scale → Income**
+**MERN Stack Developer • Building Real-World Products • Skill → Scale → Income** <br>
 🚀 **B.Tech (2nd Year) 
 
 ---
