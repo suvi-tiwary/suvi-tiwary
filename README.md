@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suvi Tiwary
 
 **Full Stack Developer • AI Integration • Building Real-World Products • Skill → Scale → Income** <br>
-🚀 **B.Tech (2nd Year)**
+🚀 **B.Tech (3rd Year)**
 
 ---
 
@@ -55,9 +55,9 @@
 
 ## 📫 Contact
 
-📧 **Email:** [suvikumari345@gmail.com](mailto:suvikumari345@gmail.com)
-🌍 **Location:** India
-💼 Open to **internships, freelance opportunities, and serious projects**
+📧 **Email:** [suvikumari345@gmail.com](mailto:suvikumari345@gmail.com)<br>
+🌍 **Location:** India<br>
+💼 Open to **internships, freelance opportunities, and serious projects**<br>
 
 ---
 
