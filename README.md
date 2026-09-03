@@ -7,11 +7,11 @@
 
 ## 🧠 About Me
 
-💻 I build **full-stack web applications with AI integration**
-⚡ Focused on **building, shipping, and solving real-world problems**
-🤖 Currently working with **AI Agents, LangChain, and LangGraph** to build intelligent applications
-🛠 Passionate about turning ideas into **scalable AI-powered products**
-🎯 Building toward **independent, high-income engineering**
+💻 I build **full-stack web applications with AI integration**<br>
+⚡ Focused on **building, shipping, and solving real-world problems**<br>
+🤖 Currently working with **AI Agents, LangChain, and LangGraph** to build intelligent applications<br>
+🛠 Passionate about turning ideas into **scalable AI-powered products**<br>
+🎯 Building toward **independent, high-income engineering**<br>
 
 📈 **Philosophy:**
 `Projects > Certificates > CGPA`
