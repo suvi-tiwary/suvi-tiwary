@@ -37,6 +37,7 @@
 * 🦜 **LangChain**
 * 🕸️ **LangGraph**
 * 🤖 **AI Agents**
+* 🤖 **RAG MODEL** 
 * 🔗 **LLM Integration**
 * 🧠 **AI-powered applications**
 
