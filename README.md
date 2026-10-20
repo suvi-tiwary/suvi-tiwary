@@ -19,7 +19,6 @@
 ---
 
 ## 🔧 Tech Stack
-
 ### 🌐 Full Stack Development
 
 <p align="left">
