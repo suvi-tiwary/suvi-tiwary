@@ -3,7 +3,7 @@
 **Full Stack Developer • AI Integration • Building Real-World Products • Skill → Scale → Income** <br>
 🚀 **B.Tech (3rd Year)**
 ---
-AI Engineer 
+
 ## 🧠 About Me
 
 💻 I build **full-stack web applications with AI integration**<br>
